@@ -1,0 +1,11 @@
+Package: cooclassifier
+Type: Package
+Title: COO classification of DLBCL gene expression profile
+Version: 1.0
+Date: 2018-06-05
+Author: Wei Du
+Maintainer: Wei Du <weidu.pku@gmail.com>
+Description: This package performs cell of origin classification of diffuse large B cell lymphoma gene expression profile. 
+License: GPL-2
+NeedsCompilation: no
+Packaged: 2018-06-06 21:31:04 UTC; dw
